@@ -1,2 +1,2 @@
 # Raspberry-Pi
-Toy programs
+Getting started with Raspberry-Pi
